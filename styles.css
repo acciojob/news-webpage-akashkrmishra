@@ -8,7 +8,9 @@ body{
 	color:white;
 	height:40px;
 	padding:5px;
-	
+	display:flex;
+	justify-content:center;
+	align-item:center;
 	
 }
 .latest-news-section,.pictorial-news-section,.main{
@@ -26,6 +28,6 @@ body{
 .latest-news-section,.main,.pictorial-news-section{
 	font-size:13px;
 }
-.pictorial-news-section,{
+.pictorial-news-section{
 	text-align:center;
 }
